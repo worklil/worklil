@@ -9,3 +9,4 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cute little things 😊✨
 
+![](https://leetcard.rudenkoliliia13.cool/rudenkoliliia13?cache=0)
