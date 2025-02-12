@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on #100DaysOfCode challenge
-- 🌱 I’m currently learning Python, Basic Java
-- 👯 I’m looking to collaborate or create a big project with team 
+- 🔭 I’m currently working on projects JobSearch (app), BuildYourPC, ISBN_Scanner (app)
+- 🌱 I’m currently learning Python, Java, Swift
+- 👯 Let's Work Together to create something new!
 - 💬 Ask me about anything (within reason)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like cute little things 😊✨
